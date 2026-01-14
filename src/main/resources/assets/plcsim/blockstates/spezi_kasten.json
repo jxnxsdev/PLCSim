@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "plcsim:block/spezi_kasten"
+    }
+  }
+}
